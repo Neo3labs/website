@@ -1,2 +1,2 @@
 # website
-Html initializer
+This file is updated by master branch
